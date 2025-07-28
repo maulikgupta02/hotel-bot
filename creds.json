@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "plasma-iterator-437412-s7",
-  "private_key_id": "cb183684bdbf9691a7e4d3e54bd6d533aa5d192c",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDlWSYP44Xb623k\nRqu5VTn1MOzul4RXzLwFp3QGT0BRZiEsI8QjVm4Y/Jmqlu8hPsDHfoZG/Is3V569\nSxnSm/0Q2lIiGiLuYOsEj1/BXvFIc6xK/JbVjTwk5nIePgqynD7ywPUGyVhFTgYF\nZaB8eEuyulKndRTi+AD5fLiirSx3zNMxqX3tGJWMdl2r7zgl78et7y0ijKE/xrMy\nr7VS9+I+ZrU3Cuabu85kSlqbxR4RHiojkxykUAzAHG47By97xkflOOAy7w7wk/cA\ni27zAuJloovg1DgvDuX1le0jQ/jReaTZjkRZMH7TzD/ats4wpKnO+rFM/WfupO13\np/oJXrt7AgMBAAECggEARwOaFfxgs85Lmg3J2VqK1iFek6gFufvyUhveAKAkba/e\nYKD4d+qor4Lzf885XwVjwsGqCSvkXW/7fmhVKBHVw5SeLuIB4+bNjn1obGMd+c2b\nUSKx/5C6SUCzoCqcvF5F3XuiwwWwF9GHar9jeHb1FXO86Q4HOBoLjzSvpOtTJAqJ\nMQ8UfSL+UOYaMrh+bu3DjJqxJ3kp9fV7FkDv1lsf3HnwvFZCA6HhtUBpOrfP2rtd\nDI+FGFGs4A3B/TgLfIbwjghdY/V8ISO3fK0L5dX6UiVWZg2gUlxEs6aW32bqvtPC\nsijVCwHl38ecfZYYzzFpoF6vbLBtW99L8mOrop3H+QKBgQD+2Q9ye6gO+XRO8dPx\ngfPsTGEvEPVIUiP0tnXyHD98gepFye8N+znGw3K2tUk9uIyrpcj1Jf8eq1aqgyGZ\nK4EazsB1vm5FJxuxlZPTY3LYkwKFIJB/Vcjs16MT4vbn4c+EjjK1kGDX6v5xq6hd\nR6b9jMRBuPhr0hymQekFY/bAeQKBgQDmYpPBWX0/vvLntALGUq/i/wZKY/Dv6lGO\ndIEwu0P4+HGYiv0ZCWtzN8dqvOV5NRjcdXgIHubWZ7/Q1rjs+yrAfnEoFlE9Quoz\nO+ReO2ZhSNFVX0hXRjnXr9sWSPoSv+8Ju4jIIVQahZol2K7sk4Fn/H7Wuvv7qOpn\nXu2ADm5mkwKBgGsqjeNfeolpfu5fpPeO5Sr953QqVmrmF7alL63zEQNjgkd8pikj\n9uTNdaS9USJCQ+0+VuY35zNXa6diYzOM5sqGHMqmnKo5ytx/gN1ImZfXIh0nV3wk\nb8yg1TPcomVaQLCGN27AWukRKZRVUgR/yAohMrpMdTKp9WA4oSuiILZJAoGAPpc3\nh0cVxRTOj26TdmgOiwA4KEvAsJ2bbLVwR9oInIJ68jOIkZ3CiHn1/qS1P1nSmEp9\nws8KbeOf9E/xy8htFAEGIxr1FUyxrhuubn960CFlZelOEQ/uNQ/82LAY6LEmcyF1\nBtIvNElp2LBmzbVBagvqNdJ1FSkODel3YtwI2GsCgYALGrkoyOXE+Nfd8w8coSmi\njvzV8mKkg5M4hFMFUH1DRdtDRpPAeUNx5mq2loQLVowcO003ZphPih/J/rIIQ6xP\nhBamrxtE9ylI3wlxxSkJ+GWoBKP93zSv9WbTbmxUV2T8oL7azf4jJa2IxBLvQlVC\nZ/+O3q2n3h/2R7Iahdyymw==\n-----END PRIVATE KEY-----\n",
-  "client_email": "hotel-391@plasma-iterator-437412-s7.iam.gserviceaccount.com",
-  "client_id": "105501689579798670416",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hotel-391%40plasma-iterator-437412-s7.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+
 }
