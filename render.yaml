@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: hotel-kailash-bot
+    runtime: python
+    buildCommand: ""
+    startCommand: python app.py
+    envVars:
+      - key: ACCOUNT_SID
+        value: ACf5d64aa5fd78d71eba4768ff90dd69c6
+      - key: AUTH_TOKEN
+        value: 43057d1f1bee35897e9b411d2ea004c8
+      - key: FROM_WHATSAPP
+        value: whatsapp:+14155238886
