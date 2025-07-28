@@ -86,6 +86,3 @@ def send_message():
         to=to
     )
     return {"status": "message sent"}, 200
-
-if __name__ == "__main__":
-    app.run()
