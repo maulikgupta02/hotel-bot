@@ -59,7 +59,7 @@ def support():
         1 x shahi paneer
         4 x butter naan
         """)
-        msg.media("https://hotel-bot.onrender.com/static/1911-restaurant-menu.pdf")
+        msg.media("https://hotel-bot-idh5.onrender.com/static/1911-restaurant-menu.pdf")
 
     elif incoming_msg == 'book':
         confirm_booking(sender)
